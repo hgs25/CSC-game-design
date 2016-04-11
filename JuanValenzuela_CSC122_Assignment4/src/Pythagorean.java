@@ -14,6 +14,7 @@ class Pythagorean
 	
 	/**
 	 * class constructor
+	 * create instance of pythagorean
 	 */
 	public Pythagorean()
 	{		
